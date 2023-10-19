@@ -1,0 +1,22 @@
+﻿Project Owner,Username,Password,Email,Project Name,User Group (Role: Editor),User Group (Role: Admin)
+dsc1,dsc1,ANbJrTVZp4hI1U+GHysJQlSa6tA=,dsc1@ibm.com,Snowflake MDE Refining Project|Snowflake MDE Transform Project|Snowflake MDE Modelling Project,Data Scientist Group,Reporting Administrator Group
+dsc2,dsc2,ANbJrnWs2FE0UVB9zJ9nBl7CdmA=,dsc2@ibm.com,COS MDE Refining Project|COS MDE Transform Project|COS MDE Modelling Project,Data Scientist Group,Reporting Administrator Group
+dv1,dv1,ANObkzhquPY831KVjQOwBhxz2g==,dv1@ibm.com,Snowflake_DV Refining Project|Snowflake_DV Transform Project|Snowflake_DV Modelling Project,Data Scientist Group|Data Quality Analyst Group,Reporting Administrator Group
+dv2,dv2,ANOYfEezxHIjJIEh40e6XoDDtw==,dv2@ibm.com,COS_DV Refining Project|COS_DV Transform Project|COS_DV Modelling Project,Data Scientist Group|Data Quality Analyst Group,Reporting Administrator Group
+dsc3,dsc3,ANbJr0oADRngLVrUggy9Olj1/fA=,dsc3@ibm.com,Teradata MDE Refining Project|Teradata MDE Transform Project|Teradata MDE Modelling Project,Data Scientist Group,Reporting Administrator Group
+dsc4,dsc4,ANbJqPRGJ+PNWW+Ka/e7jkpzTwA=,dsc4@ibm.com,Hive MDE Refining Project|Hive MDE Transform Project|Hive MDE Modelling Project,Data Scientist Group,Reporting Administrator Group
+dsc7,dsc7,ANbJq7SzWDqx3XBxuEPVykAr07A=,dsc7@ibm.com,S3 MDE Refining Project|S3 MDE Transform Project|S3 MDE Modelling Project,Data Scientist Group,Reporting Administrator Group
+dv3,dv3,ANOZmJL7EA4pjc+yOXu8aQtTkw==,dv3@ibm.com,Teradata_DV Refining Project|Teradata_DV Transform Project|Teradata_DV Modelling Project,Data Scientist Group|Data Quality Analyst Group,Reporting Administrator Group
+dv4,dv4,ANOeYLgBPXoc0yZJP8+u77mjbA==,dv4@ibm.com,Hive_DV Refining Project|Hive_DV Transform Project|Hive_DV Modelling Project,Data Scientist Group|Data Quality Analyst Group,Reporting Administrator Group
+dv7,dv7,ANOdj8fYQf4DKPX9UYuktyUTAQ==,dv7@ibm.com,S3_DV Refining Project|S3_DV Transform Project|S3_DV Modelling Project,Data Scientist Group|Data Quality Analyst Group,Reporting Administrator Group
+qsme1,qsme1,FdbH+b8BRksczW1e615RJs1MESu+,qsme1@ibm.com,Snowflake MDI_MDE Project|Snowflake DV_MDE Project,Quality SME Group,Reporting Administrator Group
+qsme2,qsme2,FdbH+bzEZr5jFBHa9KWCkqMIG3Mi,qsme2@ibm.com,COS MDI_MDE Project|COS DV_MDE Project,Quality SME Group,Reporting Administrator Group
+qsme3,qsme3,FdbH+b05eRK2XMWm/gzMAXk0HUSp,qsme3@ibm.com,Teradata MDI_MDE Project|Teradata DV_MDE Project,Quality SME Group,Reporting Administrator Group
+qsme4,qsme4,FdbH+bqMJ1ScpujSy1Il+n+AD8Ib,qsme4@ibm.com,Hive MDI_MDE Project|Hive DV_MDE Project,Quality SME Group,Reporting Administrator Group
+qsme7,qsme7,FdbH+blJB6Hjf5RW1Kn2ThHEBZqH,qsme7@ibm.com,S3 MDI_MDE Project|S3 DV_MDE Project,Quality SME Group,Reporting Administrator Group
+dsc8,dsc8,ANbJpDWT2IY/SRBlJSYCnmMRPcE=,dsc8@ibm.com,Netezza MDE Refining Project|Netezza MDE Transform Project|Netezza MDE Modelling Project,Data Scientist Group,Reporting Administrator Group
+dsc9,dsc9,ANbJpQo/Dc7rNRrMa7XYomUmtlE=,dsc9@ibm.com,MySQL MDE Refining Project|MySQL MDE Transform Project|MySQL MDE Modelling Project,Data Scientist Group,Reporting Administrator Group
+qsme8,qsme8,FdbH+bYcpIFjwxrCtL1rK8aQJqBp,qsme8@ibm.com,Netezza MDI_MDE Project|Netezza DV_MDE Project,Quality SME Group,Reporting Administrator Group
+qsme9,qsme9,FdbH+bfhuy22i86+vhQluBysIJfi,qsme9@ibm.com,MySQL MDI_MDE Project|MySQL DV_MDE Project,Quality SME Group,Reporting Administrator Group
+dv8,dv8,ANOSWUdkz2pjPGiYht+Hjcti2g==,dv8@ibm.com,Netezza_DV Refining Project|Netezza_DV Transform Project|Netezza_DV Modelling Project,Data Scientist Group|Data Quality Analyst Group,Reporting Administrator Group
+dv9,dv9,ANOTvZIsGxZplSYLXOOBukDy/g==,dv9@ibm.com,MySQL_DV Refining Project|MySQL_DV Transform Project|MySQL_DV Modelling Project,Data Scientist Group|Data Quality Analyst Group,Reporting Administrator Group
